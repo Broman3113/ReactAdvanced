@@ -1,5 +1,1 @@
-# Main React Advanced
-
-## Lesson navigations
-
-[Lesson 1]()
+# This is lesson 1
